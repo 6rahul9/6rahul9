@@ -44,8 +44,7 @@
 </a> 
 </div>  
     
-## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=mnz5vy2pe2msgqqgfyy8oevbc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
+
 
 
 <br/>    
