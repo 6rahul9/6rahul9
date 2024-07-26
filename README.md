@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://camo.githubusercontent.com/0afc23010923c3c20082af3b4673e3714dc0efacdaf1ab671f072bd368983d40/68747470733a2f2f692e696d6775722e636f6d2f565542745879732e676966" width="100%" height="100%" style="position:absolute" />
+<img src="https://media1.tenor.com/m/stmRA2CsDPgAAAAd/gon-hx-h.gif" width="100%" height="100%" style="position:absolute" />
 </div>  
   
 
